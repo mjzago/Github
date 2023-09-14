@@ -43,17 +43,6 @@ During the course, essential topics related to Git and GitHub were covered, incl
 
 - **Automation with GitHub Actions**: Configuration of automated actions for tasks such as automated testing and continuous deployment.
 
-## Advanced Usage
-
-In addition to the basic skills, the course provided a solid foundation for running Git commands via Bash and performing advanced version control tasks.
-
-## Conclusion
-
-The Git and GitHub course offered by INTOcode and Hochschule Hannover has provided fundamental preparation for the Data Science and Web Development specialization program. The knowledge gained will enable effective collaboration on software development and data science projects. We look forward to applying these skills to future projects and continuing to enhance our capabilities.
-
-Feel free to explore the course details in this repository, and please reach out to INTOcode or Hochschule Hannover for more information about the specialization program.
-Please replace [Insert Start Date] and [Insert End Date] with the actual start and end dates of the course, and ensure that the instructor's contact information and links are accurate.
-
 ## Course Content
 
 During the course, essential topics related to Git and GitHub were covered, including:
